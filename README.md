@@ -1,9 +1,8 @@
 # About Me:
-Hello I'm Michael, a backend dev that likes UX and UI.
+Hello I'm Michael, a backend dev that cares about UX and UI.
+
 Most of my work is done in PHP, JS, Dart and Python.
 
-
-## Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Blackajiro) 
 
 # Tech Stack:
