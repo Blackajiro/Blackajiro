@@ -1,7 +1,7 @@
 # About Me:
-Hello I'm Michael, a backend dev that cares about UX and UI.
+Hello I'm Michael, a fullstack dev that cares about UX and UI.
 
-Most of my work is done in PHP, JS, Dart and Python.
+Most of my work is done in PHP, JS, VueJS, Dart and Python.
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Blackajiro) 
 
