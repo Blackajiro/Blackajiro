@@ -5,8 +5,8 @@ I lead small teams to ship reliable software, with a strong focus on clarity, ow
 
 I enjoy building products end-to-end, automation, and pragmatic engineering
 
-## Tech I use (and can lead with)
+## Tech I use
 - Languages: Swift, JavaScript/TypeScript, Python, PHP
 - Mobile: iOS (Swift)
-- Web: Vue, Nuxt, HTML/CSS
+- Web: Vue, NextJS, HTML/CSS
 - Backend & tooling: APIs, automation, Docker, CI/CD, Git
