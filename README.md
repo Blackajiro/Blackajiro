@@ -1,4 +1,3 @@
-
 # Hey, I'm Michael 👋
 
 I build apps, tools, and other things that probably didn't need to exist.
@@ -12,7 +11,7 @@ They all end up somewhere anyway.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackajiro&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Blackajiro&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
     alt="Most Used Languages"
     width="495"
   />
@@ -20,7 +19,7 @@ They all end up somewhere anyway.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Blackajiro&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+    src="https://github-stats-extended.vercel.app/api?username=Blackajiro&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
     alt="GitHub Stats"
     width="495"
   />
